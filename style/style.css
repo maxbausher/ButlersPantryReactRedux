@@ -1,0 +1,88 @@
+* {
+  margin: 0px;
+}
+
+body {
+  background-color: rgba(228, 225, 210, 0.85);
+}
+
+.hero {
+  margin-left: 31%;
+  margin-top: 15%;
+  padding: 50px;
+  padding-bottom: 75px;
+  font-family: 'Arima Madurai', cursive;
+
+
+}
+
+.buy:hover {
+  text-decoration: none;
+  color: green;
+}
+
+.resultsPage{
+  font-family: 'Share', cursive;
+}
+
+.link {
+  margin-left: 40%;
+  margin-top: 30px;
+  margin-bottom: 6px;
+}
+
+.link:hover{
+  text-decoration: none;
+  color: black;
+}
+
+.resultImg {
+  border: 1px solid rgb(17, 67, 134);
+  border-radius: 10px;
+}
+
+#heroP {
+  color: color: rgb(228, 229, 238);
+
+}
+
+#heroTitle {
+  color: rgba(55, 57, 56, 0.97);
+  text-shadow: 1px 1px 1px grey;
+}
+
+#searchInput {
+  width: 325px;
+}
+
+#submitBtn {
+  position: absolute;
+  display: inline;
+  margin-left: 0px;
+}
+
+.productForm {
+  background-color: rgba(255,255,255, 0.5);
+  position: absolute;
+  width: 525px;
+  left: 3%;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 5px;
+  font-family: 'Share', cursive;
+}
+
+.eventForm {
+  background-color: rgba(255,255,255, 0.5);
+  position: absolute;
+  width: 525px;
+  right: 3%;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 5px;
+  font-family: 'Share', cursive;
+}
+
+#formLabel {
+  padding-right: 10px;
+}
