@@ -3,7 +3,7 @@
 }
 
 body {
-  background-color: rgba(228, 225, 210, 0.85);
+  background-color: rgba(166, 215, 236, 0.83);
 }
 
 .hero {
@@ -12,8 +12,6 @@ body {
   padding: 50px;
   padding-bottom: 75px;
   font-family: 'Arima Madurai', cursive;
-
-
 }
 
 .buy:hover {
@@ -21,7 +19,7 @@ body {
   color: green;
 }
 
-.resultsPage{
+.resultsPage {
   font-family: 'Share', cursive;
 }
 
@@ -31,7 +29,7 @@ body {
   margin-bottom: 6px;
 }
 
-.link:hover{
+.link:hover {
   text-decoration: none;
   color: black;
 }
@@ -42,8 +40,7 @@ body {
 }
 
 #heroP {
-  color: color: rgb(228, 229, 238);
-
+  color: rgb(228, 229, 238);
 }
 
 #heroTitle {
@@ -62,7 +59,7 @@ body {
 }
 
 .productForm {
-  background-color: rgba(255,255,255, 0.5);
+  background-color: rgba(255, 255, 255, 0.5);
   position: absolute;
   width: 525px;
   left: 3%;
@@ -73,7 +70,7 @@ body {
 }
 
 .eventForm {
-  background-color: rgba(255,255,255, 0.5);
+  background-color: rgba(255, 255, 255, 0.5);
   position: absolute;
   width: 525px;
   right: 3%;
